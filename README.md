@@ -2,7 +2,7 @@
 
 This was a final project in the course 50.035 Computer Vision, Singapore University of Technology and Design. This project had four contributors - Sarang, Vy Dinh, Rachel Leow and myself (Ryan Wang). My main contributions include adapting the original blazepose model, experimenting with extra layers, and experimenting with CBAM modules.
 
-Review the full report [here]((https://github.com/SausageMuffins/No-Pain-Just-Gains/main/Project_BlazePose.pdf).
+Review the full report [here](https://raw.githubusercontent.com/SausageMuffins/No-Pain-Just-Gains/main/Project_BlazePose.pdf).
 
 **Theme: Design Track - healthcare**
 
